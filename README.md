@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnkrdb&label=Profile%20views&color=0e75b6&style=flat" alt="jnnkrdb" /> </p>
 
-- 🌱 I’m currently learning **kubernetes, golang and AWS**
-
-- 💬 Ask me about **golang and kubernetes**
-
 - 📫 How to reach me **contact@jnnkrdb.de**
 
 <h3 align="left">Connect with me:</h3>
