@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **golang and kubernetes**
 
-- 📫 How to reach me **jrodenburger@icloud.com**
+- 📫 How to reach me **contact@jnnkrdb.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
